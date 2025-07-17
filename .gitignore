@@ -1,0 +1,6 @@
+venv/
+.env
+docker/postgres_data/
+__pycache__/
+*.pyc
+*.log
